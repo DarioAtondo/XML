@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE ligamx SYSTEM "ligaMX.dtd">
+
+<ligamx>
+    <fecha>Miércoles, 20 de septiembre, 2023</fecha>
+    <partido>
+        <club1>Querétaro</club1>
+        <club2>América</club2>
+        <marcador>1 - 2</marcador>
+        <anotaciones>
+                <gol>
+                    <equipo>Queretaro</equipo>
+                    <jugador>Raúl Zúñiga</jugador>
+                    <minuto>(11')</minuto>
+                </gol>
+                <gol>
+                    <equipo>América</equipo>
+                    <jugador>Diego Valdés</jugador>
+                    <minuto>(52')</minuto>
+                </gol>
+                <gol>
+                    <equipo>América</equipo>
+                    <jugador>Igor Lichnovsky</jugador>
+                    <minuto>(78')</minuto>
+                </gol>
+        </anotaciones>
+        <ganador>América</ganador>
+        <localización>La Corregidora, Santiago de Queretaro, México</localización>
+    </partido>
+</ligamx>

@@ -1,0 +1,15 @@
+<!DOCTYPE ligamx [
+        <!ELEMENT ligamx (fecha|partido)*>
+        <!ELEMENT fecha (#PCDATA)>
+        <!ELEMENT partido (club1|club2|marcador|anotaciones|ganador|localización)*>
+        <!ELEMENT club1 (#PCDATA)>
+        <!ELEMENT club2 (#PCDATA)>
+        <!ELEMENT marcador (#PCDATA)>
+        <!ELEMENT anotaciones (gol)*>
+        <!ELEMENT gol (equipo|jugador|minuto)*>
+        <!ELEMENT equipo (#PCDATA)>
+        <!ELEMENT jugador (#PCDATA)>
+        <!ELEMENT minuto (#PCDATA)>
+        <!ELEMENT ganador (#PCDATA)>
+        <!ELEMENT localización (#PCDATA)>
+        ]>
